@@ -7,49 +7,6 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Fri, 28 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Other post</title>
-        <link>https://example.com/p/hola-mundo/</link>
-        <pubDate>Mon, 10 Aug 2020 01:00:00 +0200</pubDate>
-        
-        <guid>https://example.com/p/hola-mundo/</guid>
-        <description>&lt;img src="https://example.com/p/hola-mundo/cover1.jpg" alt="Featured image of post Other post" /&gt;&lt;h2 id=&#34;hola-como-estas&#34;&gt;Hola Como estas&lt;/h2&gt;
-&lt;p&gt;Hoy quise aprender a hacer un post nuevo
-Hoy quise aprender a hacer un post nuevo
-Hoy quise aprender a hacer un post nuevo
-Hoy quise aprender a hacer un post nuevo1
-Hoy quise aprender a hacer un post nuevo
-Hoy quise aprender a hacer un post nuevo
-Hoy quise aprender a hacer un post nuevo
-Hoy quise aprender a hacer un post nuevo
-Hoy quise aprender a hacer un post nuevo
-Hoy quise aprender a hacer un post nuevo
-Hoy quise aprender a hacer un post nuevo
-Hoy quise aprender a hacer un post nuevo
-Hoy quise aprender a hacer un post nuevo
-Hoy quise aprender a hacer un post nuevo
-Hoy quise aprender a hacer un post nuevo
-Hoy quise aprender a hacer un post nuevo
-Hoy quise aprender a hacer un post nuevo
-Hoy quise aprender a hacer un post nuevo
-Hoy quise aprender a hacer un post nuevo
-Hoy quise aprender a hacer un post nuevo&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Otro parrafo&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;figure style=&#34;flex-grow: 167; flex-basis: 401px&#34;&gt;
-		&lt;a href=&#34;https://example.com/p/hola-mundo/cover1.jpg&#34; data-size=&#34;1800x1075&#34;&gt;&lt;img src=&#34;https://example.com/p/hola-mundo/cover1.jpg&#34;
-				srcset=&#34;https://example.com/p/hola-mundo/cover1_hud7fb56c0fae5c4b757fc120fed8f50a5_588807_480x0_resize_q75_box.jpg 480w, https://example.com/p/hola-mundo/cover1_hud7fb56c0fae5c4b757fc120fed8f50a5_588807_1024x0_resize_q75_box.jpg 1024w&#34;
-				width=&#34;1800&#34;
-				height=&#34;1075&#34;
-				loading=&#34;lazy&#34;
-				alt=&#34;Image 1&#34;&gt;
-		&lt;/a&gt;
-		
-		&lt;figcaption&gt;Image 1&lt;/figcaption&gt;
-		
-	&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Hola tiempo real&lt;/em&gt;&lt;/p&gt;
-</description>
-        </item>
-        <item>
         <title>Pau</title>
         <link>https://example.com/p/my-first-post/</link>
         <pubDate>Mon, 10 Aug 2020 01:00:00 +0200</pubDate>
@@ -83,15 +40,6 @@ Hoy quise aprender a hacer un post nuevo&lt;/p&gt;
 &lt;h2 id=&#34;lo-que-funciona-hoy-mañana-ya-no&#34;&gt;&amp;ldquo;Lo que funciona hoy mañana ya no&amp;rdquo;&lt;/h2&gt;
 &lt;p&gt;Algo que he aprendido con desarrolladores de software es la adaptabilidad que tienen las aplicaciones para poder cambiar el rumbo de las mismas con los requisitos que el cliente quiere o desea.&lt;/p&gt;
 &lt;p&gt;Por eso mismo no tanto la palabra sino el significado que tiene o el concepto es el que nos interesa en este blog.&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Pau2</title>
-        <link>https://example.com/p/paus/</link>
-        <pubDate>Mon, 10 Aug 2020 01:00:00 +0200</pubDate>
-        
-        <guid>https://example.com/p/paus/</guid>
-        <description>&lt;img src="https://example.com/p/paus/orig_3433.jpg" alt="Featured image of post Pau2" /&gt;&lt;p&gt;Hola mundo&lt;/p&gt;
 </description>
         </item>
         

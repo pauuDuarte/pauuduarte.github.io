@@ -8,30 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 10 Aug 2020 01:00:00 +0200</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Other post</title>
-      <link>https://example.com/p/hola-mundo/</link>
-      <pubDate>Mon, 10 Aug 2020 01:00:00 +0200</pubDate>
-      
-      <guid>https://example.com/p/hola-mundo/</guid>
-      <description>Hola Como estas Hoy quise aprender a hacer un post nuevo Hoy quise aprender a hacer un post nuevo Hoy quise aprender a hacer un post nuevo Hoy quise aprender a hacer un post nuevo1 Hoy quise aprender a hacer un post nuevo Hoy quise aprender a hacer un post nuevo Hoy quise aprender a hacer un post nuevo Hoy quise aprender a hacer un post nuevo Hoy quise aprender a hacer un post nuevo Hoy quise aprender a hacer un post nuevo Hoy quise aprender a hacer un post nuevo Hoy quise aprender a hacer un post nuevo Hoy quise aprender a hacer un post nuevo Hoy quise aprender a hacer un post nuevo Hoy quise aprender a hacer un post nuevo Hoy quise aprender a hacer un post nuevo Hoy quise aprender a hacer un post nuevo Hoy quise aprender a hacer un post nuevo Hoy quise aprender a hacer un post nuevo Hoy quise aprender a hacer un post nuevo</description>
-    </item>
-    
-    <item>
       <title>Pau</title>
       <link>https://example.com/p/my-first-post/</link>
       <pubDate>Mon, 10 Aug 2020 01:00:00 +0200</pubDate>
       
       <guid>https://example.com/p/my-first-post/</guid>
       <description>MENTALIDAD ÁGIL ¿Qué fue para mi? Decidí comenzar con este proyecto por que considero importante transmitir todo aquello que aprendo cada día con este tipo de metodologías que están presentes y que debemos tomar como ejemplo para ponerlas en práctica por consiguiente este tipo de metodologías han cambiado mi perspectiva de ver las cosas tanto profesional como personal. ¿ Qué es la Metodología Ágil?  Para entender este concepto en conjunto es necesario desmenuzar parte por parte .</description>
-    </item>
-    
-    <item>
-      <title>Pau2</title>
-      <link>https://example.com/p/paus/</link>
-      <pubDate>Mon, 10 Aug 2020 01:00:00 +0200</pubDate>
-      
-      <guid>https://example.com/p/paus/</guid>
-      <description>Hola mundo</description>
     </item>
     
   </channel>
