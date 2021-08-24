@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Example Site</title>
+        <link>https://example.com/</link>
+        <description>Recent content on Example Site</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Fri, 28 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Other post</title>
+        <link>https://example.com/p/hola-mundo/</link>
+        <pubDate>Mon, 10 Aug 2020 01:00:00 +0200</pubDate>
+        
+        <guid>https://example.com/p/hola-mundo/</guid>
+        <description>&lt;img src="https://example.com/p/hola-mundo/cover1.jpg" alt="Featured image of post Other post" /&gt;&lt;h2 id=&#34;hola-como-estas&#34;&gt;Hola Como estas&lt;/h2&gt;
+&lt;p&gt;Hoy quise aprender a hacer un post nuevo
+Hoy quise aprender a hacer un post nuevo
+Hoy quise aprender a hacer un post nuevo
+Hoy quise aprender a hacer un post nuevo1
+Hoy quise aprender a hacer un post nuevo
+Hoy quise aprender a hacer un post nuevo
+Hoy quise aprender a hacer un post nuevo
+Hoy quise aprender a hacer un post nuevo
+Hoy quise aprender a hacer un post nuevo
+Hoy quise aprender a hacer un post nuevo
+Hoy quise aprender a hacer un post nuevo
+Hoy quise aprender a hacer un post nuevo
+Hoy quise aprender a hacer un post nuevo
+Hoy quise aprender a hacer un post nuevo
+Hoy quise aprender a hacer un post nuevo
+Hoy quise aprender a hacer un post nuevo
+Hoy quise aprender a hacer un post nuevo
+Hoy quise aprender a hacer un post nuevo
+Hoy quise aprender a hacer un post nuevo
+Hoy quise aprender a hacer un post nuevo&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Otro parrafo&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure style=&#34;flex-grow: 167; flex-basis: 401px&#34;&gt;
+		&lt;a href=&#34;https://example.com/p/hola-mundo/cover1.jpg&#34; data-size=&#34;1800x1075&#34;&gt;&lt;img src=&#34;https://example.com/p/hola-mundo/cover1.jpg&#34;
+				srcset=&#34;https://example.com/p/hola-mundo/cover1_hud7fb56c0fae5c4b757fc120fed8f50a5_588807_480x0_resize_q75_box.jpg 480w, https://example.com/p/hola-mundo/cover1_hud7fb56c0fae5c4b757fc120fed8f50a5_588807_1024x0_resize_q75_box.jpg 1024w&#34;
+				width=&#34;1800&#34;
+				height=&#34;1075&#34;
+				loading=&#34;lazy&#34;
+				alt=&#34;Image 1&#34;&gt;
+		&lt;/a&gt;
+		
+		&lt;figcaption&gt;Image 1&lt;/figcaption&gt;
+		
+	&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Hola tiempo real&lt;/em&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Pau</title>
+        <link>https://example.com/p/my-first-post/</link>
+        <pubDate>Mon, 10 Aug 2020 01:00:00 +0200</pubDate>
+        
+        <guid>https://example.com/p/my-first-post/</guid>
+        <description>&lt;img src="https://example.com/p/my-first-post/orig_3433.jpg" alt="Featured image of post Pau" /&gt;&lt;h1 id=&#34;mentalidad-ágil&#34;&gt;MENTALIDAD ÁGIL&lt;/h1&gt;
+&lt;h2 id=&#34;qué-fue-para-mi&#34;&gt;¿Qué fue para mi?&lt;/h2&gt;
+&lt;h3 id=&#34;decidí-comenzar-con-este-proyecto-por-que--considero-importante-transmitir-todo-aquello-que-aprendo-cada-día-con-este-tipo-de-metodologías-que-están-presentes-y-que-debemos-tomar-como-ejemplo-para-ponerlas-en-práctica-por-consiguiente-este-tipo-de-metodologías-han-cambiado-mi-perspectiva-de-ver-las-cosas-tanto-profesional-como-personal&#34;&gt;Decidí comenzar con este proyecto por que  considero importante transmitir todo aquello que aprendo cada día con este tipo de metodologías que están presentes y que debemos tomar como ejemplo para ponerlas en práctica por consiguiente este tipo de metodologías han cambiado mi perspectiva de ver las cosas tanto profesional como personal.&lt;/h3&gt;
+&lt;h2 id=&#34;-qué-es-la-metodología-ágil&#34;&gt;¿ Qué es la Metodología Ágil?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Para entender este concepto en conjunto es necesario desmenuzar parte por parte .
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;ÁGIL&lt;/strong&gt;  &amp;ldquo;Que actúa con rápidez y habilidad&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;METODOLOGÍA&lt;/strong&gt; &amp;ldquo;Métodos racionales para el logro de un objetivo&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;MÉTODO&lt;/strong&gt; &amp;ldquo;Modo ordenado y sistemático para llegar a un resultado&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Una vez claro dichos significados podemos hacer que convivan en armonía para brindar un significado mas claro de que  es este tipo de metodología.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;METODOLOGÍA ÁGIL&lt;/strong&gt;  &amp;ldquo;Sistema de trabajo que actúa rápido y hábil para el logro de uno o varios objetivos&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Pero realmente la metodología ágil actúa de forma sistemática , es decir alineado y que no pueda seguir mas de un camino.&lt;/p&gt;
+&lt;p&gt;Teniendo en cuenta e investigando más acerca de esta metodología me he dado cuenta que mas que un método, es una forma de vida que las empresas y las personas deben empezar a adoptar.&lt;/p&gt;
+&lt;h1 id=&#34;por-qué-nace-esta-metodología&#34;&gt;¿POR QUÉ NACE ESTA METODOLOGÍA?&lt;/h1&gt;
+&lt;p&gt;Muchos se preguntarán a raíz de que nace esta nueva forma de pensar y es necesario comprender que la forma tradicional en la que muchas empresas manejaban el sistema era el incorrecto.&lt;/p&gt;
+&lt;p&gt;Era una forma donde normalmente la capacidad de interactuar con el cliente era nula y casi imposible o estaban sometidos a lo que un contrato establecía.&lt;/p&gt;
+&lt;p&gt;Esta metodología &lt;strong&gt;nace&lt;/strong&gt; en el desarrollo del &lt;strong&gt;&amp;ldquo;software&amp;rdquo;&lt;/strong&gt; pero &lt;strong&gt;no&lt;/strong&gt; quiere decir que no se pueda &lt;strong&gt;adaptar&lt;/strong&gt; a otros campos de la industria, como puede ser el transporte, logística, ventas, recursos humanos, etc..&lt;/p&gt;
+&lt;p&gt;Abordaremos mucho en este blog la palabra 
+&lt;span style=&#39;color: blue&#39;&gt;&lt;strong&gt;ADAPTABILIDAD&lt;/strong&gt;&lt;/span&gt; , que tiene, pero ¿por qué es tan &lt;strong&gt;IMPORTANTE&lt;/strong&gt; esta palabra?, algo que tiene esta metodología y que cambio mucho mi perspectiva de ver las cosas fue precisamente eso , el echo de realizar un &lt;strong&gt;CAMBIO&lt;/strong&gt; y poder &lt;strong&gt;ADAPTARLO&lt;/strong&gt; a lo que se tiene actualmente en un proyecto.&lt;/p&gt;
+&lt;h2 id=&#34;lo-que-funciona-hoy-mañana-ya-no&#34;&gt;&amp;ldquo;Lo que funciona hoy mañana ya no&amp;rdquo;&lt;/h2&gt;
+&lt;p&gt;Algo que he aprendido con desarrolladores de software es la adaptabilidad que tienen las aplicaciones para poder cambiar el rumbo de las mismas con los requisitos que el cliente quiere o desea.&lt;/p&gt;
+&lt;p&gt;Por eso mismo no tanto la palabra sino el significado que tiene o el concepto es el que nos interesa en este blog.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Pau2</title>
+        <link>https://example.com/p/paus/</link>
+        <pubDate>Mon, 10 Aug 2020 01:00:00 +0200</pubDate>
+        
+        <guid>https://example.com/p/paus/</guid>
+        <description>&lt;img src="https://example.com/p/paus/orig_3433.jpg" alt="Featured image of post Pau2" /&gt;&lt;p&gt;Hola mundo&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
